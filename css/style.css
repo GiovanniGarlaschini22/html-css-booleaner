@@ -31,3 +31,8 @@ body{
     font-size: x-small;
 }
 /*prima sezione*/
+
+/*seconda sezione*/
+.testo-evidenziato{
+    background-color: rgb(255, 255, 0);
+}
