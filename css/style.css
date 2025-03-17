@@ -1,3 +1,9 @@
+/*font family*/
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+/*font family*/
+
 /*header*/
 .header{
     background-image: url(../img/pattern.png);
@@ -7,3 +13,21 @@
 }
 /*header*/
 
+/*prima sezione*/
+.titolo{
+   font-weight: 800;
+   font-size: 200%;
+}
+.Sottotitolo{
+    color: rgb(128, 128, 128);
+}
+.blue{
+    color:rgb(100, 149, 237);
+}
+.data{
+    font-size:small;
+}
+.sottotitoli{
+    font-size: x-small;
+}
+/*prima sezione*/
